@@ -1,0 +1,15 @@
+{
+  "name": "skynet-downloader",
+  "version": "1.0.0",
+  "description": "simple tool to download links from skynet",
+  "main": "skynet.js",
+  "scripts": {
+    "start": "node skynet.js"
+  },
+  "author": "inspireme6",
+  "license": "ISC",
+  "dependencies": {
+    "simplecrawler": "^1.1.9",
+    "yargs": "^15.3.1"
+  }
+}
